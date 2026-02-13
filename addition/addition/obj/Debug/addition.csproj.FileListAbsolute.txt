@@ -1,0 +1,6 @@
+D:\.net prog\addition\addition\bin\Debug\addition.exe.config
+D:\.net prog\addition\addition\bin\Debug\addition.exe
+D:\.net prog\addition\addition\bin\Debug\addition.pdb
+D:\.net prog\addition\addition\obj\Debug\addition.csprojResolveAssemblyReference.cache
+D:\.net prog\addition\addition\obj\Debug\addition.exe
+D:\.net prog\addition\addition\obj\Debug\addition.pdb

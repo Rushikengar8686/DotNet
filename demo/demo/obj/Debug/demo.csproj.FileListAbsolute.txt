@@ -1,0 +1,12 @@
+D:\.net prog\demo\demo\bin\Debug\demo.exe.config
+D:\.net prog\demo\demo\bin\Debug\demo.exe
+D:\.net prog\demo\demo\bin\Debug\demo.pdb
+D:\.net prog\demo\demo\obj\Debug\demo.csprojResolveAssemblyReference.cache
+D:\.net prog\demo\demo\obj\Debug\demo.exe
+D:\.net prog\demo\demo\obj\Debug\demo.pdb
+D:\2026\DotNet\demo\demo\bin\Debug\demo.exe.config
+D:\2026\DotNet\demo\demo\obj\Debug\demo.exe
+D:\2026\DotNet\demo\demo\obj\Debug\demo.pdb
+D:\2026\DotNet\demo\demo\bin\Debug\demo.exe
+D:\2026\DotNet\demo\demo\bin\Debug\demo.pdb
+D:\2026\DotNet\demo\demo\obj\Debug\demo.csprojResolveAssemblyReference.cache
