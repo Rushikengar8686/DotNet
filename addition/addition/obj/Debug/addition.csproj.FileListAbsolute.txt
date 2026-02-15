@@ -4,3 +4,6 @@ D:\.net prog\addition\addition\bin\Debug\addition.pdb
 D:\.net prog\addition\addition\obj\Debug\addition.csprojResolveAssemblyReference.cache
 D:\.net prog\addition\addition\obj\Debug\addition.exe
 D:\.net prog\addition\addition\obj\Debug\addition.pdb
+D:\2026\DotNet\addition\addition\bin\Debug\addition.exe.config
+D:\2026\DotNet\addition\addition\obj\Debug\addition.exe
+D:\2026\DotNet\addition\addition\obj\Debug\addition.pdb
