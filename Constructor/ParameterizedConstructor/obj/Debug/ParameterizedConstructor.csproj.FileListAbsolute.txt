@@ -1,0 +1,4 @@
+D:\2026\DotNet\ParameterizedConstructor\bin\Debug\ParameterizedConstructor.exe
+D:\2026\DotNet\ParameterizedConstructor\bin\Debug\ParameterizedConstructor.pdb
+D:\2026\DotNet\ParameterizedConstructor\obj\Debug\ParameterizedConstructor.exe
+D:\2026\DotNet\ParameterizedConstructor\obj\Debug\ParameterizedConstructor.pdb

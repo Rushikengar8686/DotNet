@@ -1,0 +1,5 @@
+D:\2026\DotNet\DefalutConstructor\bin\Debug\DefalutConstructor.exe
+D:\2026\DotNet\DefalutConstructor\bin\Debug\DefalutConstructor.pdb
+D:\2026\DotNet\DefalutConstructor\obj\Debug\DefaultConstructor.csprojResolveAssemblyReference.cache
+D:\2026\DotNet\DefalutConstructor\obj\Debug\DefalutConstructor.exe
+D:\2026\DotNet\DefalutConstructor\obj\Debug\DefalutConstructor.pdb
