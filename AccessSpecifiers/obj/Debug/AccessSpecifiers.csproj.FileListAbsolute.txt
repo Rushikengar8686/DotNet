@@ -1,0 +1,5 @@
+D:\2026\DotNet\AccessSpecifiers\bin\Debug\AccessSpecifiers.exe
+D:\2026\DotNet\AccessSpecifiers\bin\Debug\AccessSpecifiers.pdb
+D:\2026\DotNet\AccessSpecifiers\obj\Debug\AccessSpecifiers.csprojResolveAssemblyReference.cache
+D:\2026\DotNet\AccessSpecifiers\obj\Debug\AccessSpecifiers.exe
+D:\2026\DotNet\AccessSpecifiers\obj\Debug\AccessSpecifiers.pdb
