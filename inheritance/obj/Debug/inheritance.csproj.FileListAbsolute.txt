@@ -1,0 +1,5 @@
+D:\2026\DotNet\inheritance\bin\Debug\inheritance.exe
+D:\2026\DotNet\inheritance\bin\Debug\inheritance.pdb
+D:\2026\DotNet\inheritance\obj\Debug\inheritance.csprojResolveAssemblyReference.cache
+D:\2026\DotNet\inheritance\obj\Debug\inheritance.exe
+D:\2026\DotNet\inheritance\obj\Debug\inheritance.pdb
