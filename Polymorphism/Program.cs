@@ -29,6 +29,14 @@ namespace Polymorphism
             Manager.BasicSalary(79000);
 
 
+            // Bank Task
+            Console.WriteLine("Bank Task");
+            BankExample saving = new SavingAccount();
+            Console.WriteLine("Calculate Saving Account Interest  "+saving.CalculateIntrest(50000, 4, 2));
+            BankExample current = new currentAccount();
+            Console.WriteLine("Calculate Current Account Interest " + current.CalculateIntrest(70000, 5, 5));
+
+
 
                
 
