@@ -1,0 +1,5 @@
+D:\2026\DotNet\Polymorphism\bin\Debug\Polymorphism.exe
+D:\2026\DotNet\Polymorphism\bin\Debug\Polymorphism.pdb
+D:\2026\DotNet\Polymorphism\obj\Debug\Polymorphism.csprojResolveAssemblyReference.cache
+D:\2026\DotNet\Polymorphism\obj\Debug\Polymorphism.exe
+D:\2026\DotNet\Polymorphism\obj\Debug\Polymorphism.pdb
